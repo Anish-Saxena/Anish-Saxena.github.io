@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SRG on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/srg/</link>
+    <description>Recent content in SRG on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 01 Dec 2019 18:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/srg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Systems Reading Group- Basic Module</title>
+      <link>https://Anish-Saxena.github.io/talk/sys_reading_group/</link>
+      <pubDate>Sun, 01 Dec 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/sys_reading_group/</guid>
+      <description>&lt;p&gt;A reading group aimed at making the audience comfortable with basic concepts of computer systems.&lt;/p&gt;
+&lt;h2 id=&#34;list-of-talks&#34;&gt;List of Talks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Introductory session: &lt;a href=&#34;https://docs.google.com/presentation/d/1RDWVsxqU7TSILcLsWiZrVj5OlaEVJSoWhH-rPrjOtXg/edit?usp=drivesdk&#34;&gt;Drive Link&lt;/a&gt;. Aimed at introducing the field of systems to the audience, and the logistics of the reading group.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reading Material: &lt;a href=&#34;https://drive.google.com/open?id=1bS7p7_JSsNOuVQ2sE-o3hk09wrAb5wQp&#34;&gt;Drive Link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video Lecture playlists:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital Logic Design: &lt;a href=&#34;https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_QedyPWtRmFUJ2F8DdYP7l&#34;&gt;YouTube Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reference Books:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer Organization And Design, 5th Ed., Patterson &amp;amp; Hannessy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;topic-list&#34;&gt;Topic List&lt;/h2&gt;
+&lt;p&gt;The reader can follow this list to start their journey and learn the different concepts of computer systems in a coherent manner.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Digital Design&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital Circuits: Combination and Sequential Circuits, introduction to hardware.
+&lt;ul&gt;
+&lt;li&gt;Drive link:
+&lt;ul&gt;
+&lt;li&gt;Digital Circuits I: Introduction to digital logic, logic gates and Karnaugh maps&lt;/li&gt;
+&lt;li&gt;Digital Circuits II: Introduction to combinational logic, encoder/ decoders, multiplexors/ de-multiplexors&lt;/li&gt;
+&lt;li&gt;Digital Circuits III: Introduction to Sequential logic, latches, flip-flops, counters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Video lecture: Digital Logic Design
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Introduction to hardware design, motivation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Digital Circuit slides have been taken from Prof. Aloke Dutta&amp;rsquo;s ESC201 course&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Logic Design: Terminologies, Memory elements and introduction to ISA.
+&lt;ul&gt;
+&lt;li&gt;Drive link:
+&lt;ul&gt;
+&lt;li&gt;Logic Design I: basic terminologies&lt;/li&gt;
+&lt;li&gt;Logic Design II: Memory elements, DRAM and SRAM&lt;/li&gt;
+&lt;li&gt;Logic Design III: The Instruction Set Architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Video lectures: Digital Logic Design
+&lt;ul&gt;
+&lt;li&gt;Lecture 5&lt;/li&gt;
+&lt;li&gt;Lecture 7- first 40 minutes&lt;/li&gt;
+&lt;li&gt;Lecture 8- optional, first 30 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reference Book: Computer Organization And Design, P&amp;amp;H
+&lt;ul&gt;
+&lt;li&gt;Appendix B1 to B9&lt;/li&gt;
+&lt;li&gt;Chapter 2- sections 2.1 to 2.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The ISA explained both in slides and in reference book is MIPS, which is helpful for understanding the concepts while not being too impractically far off from real-world ISAs like x86.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Logic Design slides have been taken from Prof. Mainak Chaudhuri&amp;rsquo;s CS220 course&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer Hardware &amp; Technologies</title>
+      <link>https://Anish-Saxena.github.io/talk/hardware/</link>
+      <pubDate>Tue, 23 Oct 2018 18:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/hardware/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Delivered a talk on introduction to computer hardware and related technologies.&lt;/li&gt;
+&lt;li&gt;Sensitized audience to various components of a computer system.&lt;/li&gt;
+&lt;li&gt;Focused on rapid pace of innovation and performance increase in the world of hardware over the past few decades.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

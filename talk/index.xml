@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 01 Dec 2019 18:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Systems Reading Group- Basic Module</title>
+      <link>https://Anish-Saxena.github.io/talk/sys_reading_group/</link>
+      <pubDate>Sun, 01 Dec 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/sys_reading_group/</guid>
+      <description>&lt;p&gt;A reading group aimed at making the audience comfortable with basic concepts of computer systems.&lt;/p&gt;
+&lt;h2 id=&#34;list-of-talks&#34;&gt;List of Talks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Introductory session: &lt;a href=&#34;https://docs.google.com/presentation/d/1RDWVsxqU7TSILcLsWiZrVj5OlaEVJSoWhH-rPrjOtXg/edit?usp=drivesdk&#34;&gt;Drive Link&lt;/a&gt;. Aimed at introducing the field of systems to the audience, and the logistics of the reading group.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;Useful Links&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reading Material: &lt;a href=&#34;https://drive.google.com/open?id=1bS7p7_JSsNOuVQ2sE-o3hk09wrAb5wQp&#34;&gt;Drive Link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video Lecture playlists:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital Logic Design: &lt;a href=&#34;https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_QedyPWtRmFUJ2F8DdYP7l&#34;&gt;YouTube Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reference Books:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer Organization And Design, 5th Ed., Patterson &amp;amp; Hannessy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;topic-list&#34;&gt;Topic List&lt;/h2&gt;
+&lt;p&gt;The reader can follow this list to start their journey and learn the different concepts of computer systems in a coherent manner.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Digital Design&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital Circuits: Combination and Sequential Circuits, introduction to hardware.
+&lt;ul&gt;
+&lt;li&gt;Drive link:
+&lt;ul&gt;
+&lt;li&gt;Digital Circuits I: Introduction to digital logic, logic gates and Karnaugh maps&lt;/li&gt;
+&lt;li&gt;Digital Circuits II: Introduction to combinational logic, encoder/ decoders, multiplexors/ de-multiplexors&lt;/li&gt;
+&lt;li&gt;Digital Circuits III: Introduction to Sequential logic, latches, flip-flops, counters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Video lecture: Digital Logic Design
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Introduction to hardware design, motivation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Digital Circuit slides have been taken from Prof. Aloke Dutta&amp;rsquo;s ESC201 course&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Logic Design: Terminologies, Memory elements and introduction to ISA.
+&lt;ul&gt;
+&lt;li&gt;Drive link:
+&lt;ul&gt;
+&lt;li&gt;Logic Design I: basic terminologies&lt;/li&gt;
+&lt;li&gt;Logic Design II: Memory elements, DRAM and SRAM&lt;/li&gt;
+&lt;li&gt;Logic Design III: The Instruction Set Architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Video lectures: Digital Logic Design
+&lt;ul&gt;
+&lt;li&gt;Lecture 5&lt;/li&gt;
+&lt;li&gt;Lecture 7- first 40 minutes&lt;/li&gt;
+&lt;li&gt;Lecture 8- optional, first 30 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reference Book: Computer Organization And Design, P&amp;amp;H
+&lt;ul&gt;
+&lt;li&gt;Appendix B1 to B9&lt;/li&gt;
+&lt;li&gt;Chapter 2- sections 2.1 to 2.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The ISA explained both in slides and in reference book is MIPS, which is helpful for understanding the concepts while not being too impractically far off from real-world ISAs like x86.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Logic Design slides have been taken from Prof. Mainak Chaudhuri&amp;rsquo;s CS220 course&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flush-based attack optimizations</title>
+      <link>https://Anish-Saxena.github.io/talk/cache_optimizations/</link>
+      <pubDate>Tue, 19 Nov 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/cache_optimizations/</guid>
+      <description>&lt;p&gt;Presentation-cum-demonstration for Undergraduate Research Project for the Fall 2019 semester taken under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/biswap/&#34;&gt;Biswa&lt;/a&gt;&amp;lsquo;s guidance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The processor architecture community has, for decades, focused on providing the best possible performance in the smallest feasible footprint. Recently, though, there has been a shift in ideology. Now, the focus is on providing the optimum balance between performance and energy consumption, keeping the demands and priority of the user in mind. The key here is to tune the processor’s frequency and voltage to reduce energy consumption.&lt;/p&gt;
+&lt;p&gt;Algorithms to scale power consumption efficiently have been deployed both in hardware and in software. However, these algorithms have once again been designed with performance as the aim. The security aspects have not been paid much attention to, as is clear from the abundance of microarchitectural attacks that have sprung up over the past decade.&lt;/p&gt;
+&lt;p&gt;Our focus is to analyze the effects of aggressive power scaling algorithms for the benefit and subsequently utilize them for the benefit of an attacker, to improve the accuracy and resolution of cache-based attacks. We critique the flush-based attacks to determine the scope for improvement. We then present a detailed analysis of one of the key components in flush-based attacks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CLKscrew Attack</title>
+      <link>https://Anish-Saxena.github.io/talk/clkscrew/</link>
+      <pubDate>Thu, 31 Oct 2019 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/clkscrew/</guid>
+      <description>&lt;p&gt;Original research paper by Tang &lt;em&gt;et al.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The need for power- and energy-efficient computing has resulted in aggressive cooperative hardware-software energy management mechanisms on modern commodity devices. Most systems today, for example, allow software to control the frequency and voltage of the underlying hardware at a very fine granularity to extend battery life. Despite their benefits, these software-exposed energy management mechanisms pose grave security implications that have not been studied before.&lt;/p&gt;
+&lt;p&gt;In this work, we present the CLKSCREW attack, a new class of fault attacks that exploit the security-obliviousness of energy management mechanisms to break security. A novel benefit for the attackers is that these fault attacks become more accessible since they can now be conducted without the need for physical access to the devices or fault injection equipment. We demonstrate CLKSCREW on commodity ARM/Android devices. We show that a malicious kernel driver (1) can extract secret cryptographic keys from Trustzone, and (2) can escalate its privileges by loading self-signed code into Trustzone. As the first work to show the security ramifications of energy management mechanisms, we urge the community to re-examine these security-oblivious designs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZombieLoad Attack</title>
+      <link>https://Anish-Saxena.github.io/talk/zombieload/</link>
+      <pubDate>Thu, 04 Jul 2019 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/zombieload/</guid>
+      <description>&lt;p&gt;Original research paper by Schwarz &lt;em&gt;et al.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In early 2018, Meltdown first showed how to read arbitrary kernel memory from user space by exploiting side-effects from transient instructions. While this attack has been mitigated through stronger isolation boundaries between user and kernel space, Meltdown inspired an entirely new class of fault-driven transient execution attacks. Particularly, over the past year, Meltdown-type attacks have been extended to not only leak data from the L1 cache butalso from various other microarchitectural structures, including the FPU register file and store buffer.&lt;/p&gt;
+&lt;p&gt;In this paper, we present the ZombieLoad attack which uncovers a novel Meltdown-type effect in the processor’s previously unexplored fill-buffer logic. Our analysis shows that faulting load instructions (i.e., loads that have to be re-issued for either architectural or microarchitectural reasons) may transiently dereference unauthorized destinations previously brought into the fill buffer by the current or a sibling logical CPU. Hence, we report data leakage of recently loaded stale values across logical cores. We demonstrate ZombieLoad’s effectiveness in a multitude of practical attack scenarios across CPU privilege rings, OS processes, virtual machines, and SGX enclaves. We discuss both short and long-term mitigation approaches and arrive at the conclusion that disabling hyperthreading is the only possible workaround to prevent this extremely powerful attack on current processors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer Hardware &amp; Technologies</title>
+      <link>https://Anish-Saxena.github.io/talk/hardware/</link>
+      <pubDate>Tue, 23 Oct 2018 18:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/hardware/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Delivered a talk on introduction to computer hardware and related technologies.&lt;/li&gt;
+&lt;li&gt;Sensitized audience to various components of a computer system.&lt;/li&gt;
+&lt;li&gt;Focused on rapid pace of innovation and performance increase in the world of hardware over the past few decades.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

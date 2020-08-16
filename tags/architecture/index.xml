@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/architecture/</link>
+    <description>Recent content in Architecture on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Fri, 23 Aug 2019 11:29:15 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DABANGG: Cache Attack Optimizations</title>
+      <link>https://Anish-Saxena.github.io/project/car3s/</link>
+      <pubDate>Fri, 23 Aug 2019 11:29:15 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/car3s/</guid>
+      <description>&lt;p&gt;Exploiting hardware optimizations for improving timing channel based cache attacks. Visit &lt;a href=&#34;https://car3s.github.io/dabangg/&#34;&gt;attack&amp;rsquo;s webpage&lt;/a&gt; for details.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: April 2019 to June 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Biswabandan Panda, CSE Dept. IIT Kanpur&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

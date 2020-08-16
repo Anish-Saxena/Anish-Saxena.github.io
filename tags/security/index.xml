@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/security/</link>
+    <description>Recent content in Security on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 14:11:04 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DABANGG: Time for Fearless Flush based Cache Attacks</title>
+      <link>https://Anish-Saxena.github.io/publication/dabangg/</link>
+      <pubDate>Sun, 16 Aug 2020 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/dabangg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flush-based attack optimizations</title>
+      <link>https://Anish-Saxena.github.io/talk/cache_optimizations/</link>
+      <pubDate>Tue, 19 Nov 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/cache_optimizations/</guid>
+      <description>&lt;p&gt;Presentation-cum-demonstration for Undergraduate Research Project for the Fall 2019 semester taken under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/biswap/&#34;&gt;Biswa&lt;/a&gt;&amp;lsquo;s guidance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The processor architecture community has, for decades, focused on providing the best possible performance in the smallest feasible footprint. Recently, though, there has been a shift in ideology. Now, the focus is on providing the optimum balance between performance and energy consumption, keeping the demands and priority of the user in mind. The key here is to tune the processor’s frequency and voltage to reduce energy consumption.&lt;/p&gt;
+&lt;p&gt;Algorithms to scale power consumption efficiently have been deployed both in hardware and in software. However, these algorithms have once again been designed with performance as the aim. The security aspects have not been paid much attention to, as is clear from the abundance of microarchitectural attacks that have sprung up over the past decade.&lt;/p&gt;
+&lt;p&gt;Our focus is to analyze the effects of aggressive power scaling algorithms for the benefit and subsequently utilize them for the benefit of an attacker, to improve the accuracy and resolution of cache-based attacks. We critique the flush-based attacks to determine the scope for improvement. We then present a detailed analysis of one of the key components in flush-based attacks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CLKscrew Attack</title>
+      <link>https://Anish-Saxena.github.io/talk/clkscrew/</link>
+      <pubDate>Thu, 31 Oct 2019 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/clkscrew/</guid>
+      <description>&lt;p&gt;Original research paper by Tang &lt;em&gt;et al.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The need for power- and energy-efficient computing has resulted in aggressive cooperative hardware-software energy management mechanisms on modern commodity devices. Most systems today, for example, allow software to control the frequency and voltage of the underlying hardware at a very fine granularity to extend battery life. Despite their benefits, these software-exposed energy management mechanisms pose grave security implications that have not been studied before.&lt;/p&gt;
+&lt;p&gt;In this work, we present the CLKSCREW attack, a new class of fault attacks that exploit the security-obliviousness of energy management mechanisms to break security. A novel benefit for the attackers is that these fault attacks become more accessible since they can now be conducted without the need for physical access to the devices or fault injection equipment. We demonstrate CLKSCREW on commodity ARM/Android devices. We show that a malicious kernel driver (1) can extract secret cryptographic keys from Trustzone, and (2) can escalate its privileges by loading self-signed code into Trustzone. As the first work to show the security ramifications of energy management mechanisms, we urge the community to re-examine these security-oblivious designs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZombieLoad Attack</title>
+      <link>https://Anish-Saxena.github.io/talk/zombieload/</link>
+      <pubDate>Thu, 04 Jul 2019 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/zombieload/</guid>
+      <description>&lt;p&gt;Original research paper by Schwarz &lt;em&gt;et al.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In early 2018, Meltdown first showed how to read arbitrary kernel memory from user space by exploiting side-effects from transient instructions. While this attack has been mitigated through stronger isolation boundaries between user and kernel space, Meltdown inspired an entirely new class of fault-driven transient execution attacks. Particularly, over the past year, Meltdown-type attacks have been extended to not only leak data from the L1 cache butalso from various other microarchitectural structures, including the FPU register file and store buffer.&lt;/p&gt;
+&lt;p&gt;In this paper, we present the ZombieLoad attack which uncovers a novel Meltdown-type effect in the processor’s previously unexplored fill-buffer logic. Our analysis shows that faulting load instructions (i.e., loads that have to be re-issued for either architectural or microarchitectural reasons) may transiently dereference unauthorized destinations previously brought into the fill buffer by the current or a sibling logical CPU. Hence, we report data leakage of recently loaded stale values across logical cores. We demonstrate ZombieLoad’s effectiveness in a multitude of practical attack scenarios across CPU privilege rings, OS processes, virtual machines, and SGX enclaves. We discuss both short and long-term mitigation approaches and arrive at the conclusion that disabling hyperthreading is the only possible workaround to prevent this extremely powerful attack on current processors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

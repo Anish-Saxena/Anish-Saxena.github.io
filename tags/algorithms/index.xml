@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithms on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/algorithms/</link>
+    <description>Recent content in Algorithms on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 23 Jun 2019 08:10:20 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E-Waste Management Software</title>
+      <link>https://Anish-Saxena.github.io/project/ewaste/</link>
+      <pubDate>Sun, 23 Jun 2019 08:10:20 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/ewaste/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;.NET framework based project for predictive analysis of best route to take in order to recycle E-waste given a set of initial parameters to consider&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: August 2017 to November 2017&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Indranil Saha, CSE Dept. IIT Kanpur&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses GUI based forms for taking user surveys and performs DataBase Management using MS Excel&lt;/li&gt;
+&lt;li&gt;Converts electronic gadgets input by the users into precise amounts of substances in E-waste&lt;/li&gt;
+&lt;li&gt;Implements self-designed algorithms to display best solutions for given set of data in a survey&lt;/li&gt;
+&lt;li&gt;Accounts for economic factors, environmental factors and performs relative analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

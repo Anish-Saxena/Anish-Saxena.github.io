@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competition on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/categories/competition/</link>
+    <description>Recent content in Competition on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 23 Jun 2019 08:29:15 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/categories/competition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Campus Sustainability Challenge</title>
+      <link>https://Anish-Saxena.github.io/project/campus_sustainence/</link>
+      <pubDate>Sun, 23 Jun 2019 08:29:15 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/campus_sustainence/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Led a team of 6 individuals to identify problems in campus and implement innovative solutions to combat it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: October 2018 to December 2018&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Competition&lt;/strong&gt;: Inter IIT Tech Meet 2018, IIT Bombay&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Showcased the E-Waste Management Software developed in 2017 to display optimum treatment path, given some parameters&lt;/li&gt;
+&lt;li&gt;Integrated Biogas capturing mechanisms with Drum Composting to save up-to 14% of PNG consumption in Hall messes&lt;/li&gt;
+&lt;li&gt;Improved upon current composting practices by integrating Smart sensors for monitoring the state of compost&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

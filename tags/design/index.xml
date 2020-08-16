@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/design/</link>
+    <description>Recent content in Design on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Wed, 10 Jul 2019 06:31:20 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reconfigurable Space Antenna</title>
+      <link>https://Anish-Saxena.github.io/project/space_antenna/</link>
+      <pubDate>Wed, 10 Jul 2019 06:31:20 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/space_antenna/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Designed SMA actuator and low-power motor based antenna with 1 rotational &amp;amp; 2 translational degrees of freedom, and planned its signal reception &amp;amp; transmission.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: January 2019 to February 2019&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Dr. Sahil Kalra (PhD), Space Technology Cell, IIT Kanpur (presently, Assistant Professor, IIT Jammu)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed mechanism for ISRO to allow movement of space antenna deployed in satellite with 2 translation degrees of freedom.&lt;/li&gt;
+&lt;li&gt;Rendered 3D model using Autodesk Fusion, integrated low powered motor to allow rotational degree of freedom.&lt;/li&gt;
+&lt;li&gt;Utilized state memory alloy (SMA) actuator developed by Dr. Kalra to allow movement of axis of rotation.&lt;/li&gt;
+&lt;li&gt;Planned to use ISRO’s NavIC chip to allow transmission and reception of signals to control the antenna.&lt;/li&gt;
+&lt;li&gt;Studied signal transmission protocols pertinent to NavIC in order to devise communication strategies.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Campus Sustainability Challenge</title>
+      <link>https://Anish-Saxena.github.io/project/campus_sustainence/</link>
+      <pubDate>Sun, 23 Jun 2019 08:29:15 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/campus_sustainence/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Led a team of 6 individuals to identify problems in campus and implement innovative solutions to combat it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: October 2018 to December 2018&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Competition&lt;/strong&gt;: Inter IIT Tech Meet 2018, IIT Bombay&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Showcased the E-Waste Management Software developed in 2017 to display optimum treatment path, given some parameters&lt;/li&gt;
+&lt;li&gt;Integrated Biogas capturing mechanisms with Drum Composting to save up-to 14% of PNG consumption in Hall messes&lt;/li&gt;
+&lt;li&gt;Improved upon current composting practices by integrating Smart sensors for monitoring the state of compost&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

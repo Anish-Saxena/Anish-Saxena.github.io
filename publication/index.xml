@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/publication/</link>
+    <description>Recent content in Publications on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 14:11:04 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DABANGG: Time for Fearless Flush based Cache Attacks</title>
+      <link>https://Anish-Saxena.github.io/publication/dabangg/</link>
+      <pubDate>Sun, 16 Aug 2020 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/dabangg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

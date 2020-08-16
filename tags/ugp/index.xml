@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UGP on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/ugp/</link>
+    <description>Recent content in UGP on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Tue, 19 Nov 2019 18:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/ugp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flush-based attack optimizations</title>
+      <link>https://Anish-Saxena.github.io/talk/cache_optimizations/</link>
+      <pubDate>Tue, 19 Nov 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/cache_optimizations/</guid>
+      <description>&lt;p&gt;Presentation-cum-demonstration for Undergraduate Research Project for the Fall 2019 semester taken under &lt;a href=&#34;https://www.cse.iitk.ac.in/users/biswap/&#34;&gt;Biswa&lt;/a&gt;&amp;lsquo;s guidance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The processor architecture community has, for decades, focused on providing the best possible performance in the smallest feasible footprint. Recently, though, there has been a shift in ideology. Now, the focus is on providing the optimum balance between performance and energy consumption, keeping the demands and priority of the user in mind. The key here is to tune the processor’s frequency and voltage to reduce energy consumption.&lt;/p&gt;
+&lt;p&gt;Algorithms to scale power consumption efficiently have been deployed both in hardware and in software. However, these algorithms have once again been designed with performance as the aim. The security aspects have not been paid much attention to, as is clear from the abundance of microarchitectural attacks that have sprung up over the past decade.&lt;/p&gt;
+&lt;p&gt;Our focus is to analyze the effects of aggressive power scaling algorithms for the benefit and subsequently utilize them for the benefit of an attacker, to improve the accuracy and resolution of cache-based attacks. We critique the flush-based attacks to determine the scope for improvement. We then present a detailed analysis of one of the key components in flush-based attacks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

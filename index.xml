@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/</link>
+    <description>Recent content on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 14:11:04 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://Anish-Saxena.github.io/publication/</link>
+      <pubDate>Sun, 16 Aug 2020 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://Anish-Saxena.github.io/talk/</link>
+      <pubDate>Sun, 01 Dec 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://Anish-Saxena.github.io/project/</link>
+      <pubDate>Fri, 23 Aug 2019 11:29:15 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://Anish-Saxena.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

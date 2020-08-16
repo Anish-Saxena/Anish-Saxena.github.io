@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/authors/</link>
+    <description>Recent content in Authors on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved | 2019</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 14:11:04 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anish Saxena</title>
+      <link>https://Anish-Saxena.github.io/authors/anish-saxena/</link>
+      <pubDate>Sun, 16 Aug 2020 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/anish-saxena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biswabandan Panda</title>
+      <link>https://Anish-Saxena.github.io/authors/biswabandan-panda/</link>
+      <pubDate>Sun, 16 Aug 2020 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/biswabandan-panda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Anish-Saxena.github.io/authors/admin/</link>
+      <pubDate>Sun, 01 Dec 2019 18:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Anish Saxena, a senior undergraduate at IIT Kanpur.&lt;/p&gt;
+&lt;p&gt;My interests lie broadly in computer architecture. I work with &lt;a href=&#34;https://www.cse.iitk.ac.in/users/biswap/&#34;&gt;Biswa&lt;/a&gt; in &lt;a href=&#34;https://car3s.github.io&#34;&gt;CAR3S Group&lt;/a&gt;. We recently made public our work on improved side-channel timing attacks using flush-based techniques in processor caches. We named it the &lt;a href=&#34;https://car3s.github.io/dabangg/&#34;&gt;DABANGG Attack&lt;/a&gt;. This work was funded by NXP Semiconductors through &lt;a href=&#34;https://www.src.org/&#34;&gt;SRC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am an Architecture Research Intern in Processor Architecture Research Lab at Intel Labs. We are working to improve the cache hierarchy. At CAR3S, we are trying to implement compression algorithms in the cache hierarchy for ARM architecture. This work is sponsored by Qualcomm Research.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested, I&amp;rsquo;ve found a &lt;a href=&#34;https://medium.com/@anish.saxena.official&#34;&gt;Medium&lt;/a&gt; to present my experiences in words. I&amp;rsquo;m also compiling a fairly comprehensive set of resources to introduce folks to Computer Systems, the details of which are available here: &lt;a href=&#34;https://Anish-Saxena.github.io/talk/sys_reading_group/&#34;&gt;Systems Reading Group&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
