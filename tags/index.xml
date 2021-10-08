@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>All rights reserved | 2019</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 14:11:04 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>https://Anish-Saxena.github.io/tags/development/</link>
+      <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/tags/development/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Security</title>
@@ -63,33 +72,6 @@
       <pubDate>Fri, 23 Aug 2019 11:29:15 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>https://Anish-Saxena.github.io/tags/design/</link>
-      <pubDate>Wed, 10 Jul 2019 06:31:20 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://Anish-Saxena.github.io/tags/development/</link>
-      <pubDate>Sun, 23 Jun 2019 08:29:15 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithms</title>
-      <link>https://Anish-Saxena.github.io/tags/algorithms/</link>
-      <pubDate>Sun, 23 Jun 2019 08:10:20 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/tags/algorithms/</guid>
       <description></description>
     </item>
     

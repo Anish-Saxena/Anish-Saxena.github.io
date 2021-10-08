@@ -7,46 +7,52 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>All rights reserved | 2019</copyright>
-    <lastBuildDate>Sun, 23 Jun 2019 08:29:15 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Campus Sustainability Challenge</title>
-      <link>https://Anish-Saxena.github.io/project/campus_sustainence/</link>
+      <title>CUDA Programming</title>
+      <link>https://Anish-Saxena.github.io/talk/cuda_programming/</link>
+      <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/cuda_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-node multi-GPU programming</title>
+      <link>https://Anish-Saxena.github.io/project/gpu_bootcamp/</link>
       <pubDate>Sun, 23 Jun 2019 08:29:15 +0530</pubDate>
       
-      <guid>https://Anish-Saxena.github.io/project/campus_sustainence/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Led a team of 6 individuals to identify problems in campus and implement innovative solutions to combat it.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: October 2018 to December 2018&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Competition&lt;/strong&gt;: Inter IIT Tech Meet 2018, IIT Bombay&lt;/p&gt;
+      <guid>https://Anish-Saxena.github.io/project/gpu_bootcamp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: May 2021 to August 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;: NVIDIA India&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Showcased the E-Waste Management Software developed in 2017 to display optimum treatment path, given some parameters&lt;/li&gt;
-&lt;li&gt;Integrated Biogas capturing mechanisms with Drum Composting to save up-to 14% of PNG consumption in Hall messes&lt;/li&gt;
-&lt;li&gt;Improved upon current composting practices by integrating Smart sensors for monitoring the state of compost&lt;/li&gt;
+&lt;li&gt;Created open-source tutorials and boot-camps for scalable multi-GPU programming for HPC applications.&lt;/li&gt;
+&lt;li&gt;Developed codes with CUDA-aware MPI, NCCL, and NVSHMEM libraries and labs in Jupyter Notebooks.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>E-Waste Management Software</title>
-      <link>https://Anish-Saxena.github.io/project/ewaste/</link>
+      <title>Highly Scalable FFT on GPUs</title>
+      <link>https://Anish-Saxena.github.io/project/fft_library/</link>
       <pubDate>Sun, 23 Jun 2019 08:10:20 +0530</pubDate>
       
-      <guid>https://Anish-Saxena.github.io/project/ewaste/</guid>
+      <guid>https://Anish-Saxena.github.io/project/fft_library/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;.NET framework based project for predictive analysis of best route to take in order to recycle E-waste given a set of initial parameters to consider&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: August 2017 to November 2017&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Indranil Saha, CSE Dept. IIT Kanpur&lt;/p&gt;
+&lt;p&gt;Extended Tarang, a parallel computational fluid dynamics simulator, to enable GPU-based FFTs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: February 2021 to August 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Mahendra Verma, Physics Dept. IIT Kanpur&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Uses GUI based forms for taking user surveys and performs DataBase Management using MS Excel&lt;/li&gt;
-&lt;li&gt;Converts electronic gadgets input by the users into precise amounts of substances in E-waste&lt;/li&gt;
-&lt;li&gt;Implements self-designed algorithms to display best solutions for given set of data in a survey&lt;/li&gt;
-&lt;li&gt;Accounts for economic factors, environmental factors and performs relative analysis&lt;/li&gt;
+&lt;li&gt;Extended Tarang, a parallel computational fluid dynamics simulator, to enable GPU-based FFTs.&lt;/li&gt;
+&lt;li&gt;Developed MPI and CuFFT-XT-based variable precision 1D and 3D scalable forward and inverse FFTs.&lt;/li&gt;
+&lt;li&gt;Achieved upto 1650× single-node speed-up over FFTW on DGX-A100 and linear strong and weak scaling.&lt;/li&gt;
+&lt;li&gt;Compared DGX-A100’s performance in PARAM Siddhi AI with EPCC Cirrus cluster with 6 V100 GPUs per node.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

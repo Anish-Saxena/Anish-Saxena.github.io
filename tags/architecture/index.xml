@@ -24,5 +24,25 @@
 </description>
     </item>
     
+    <item>
+      <title>Efficient and Synergic Heterogeneous Systems</title>
+      <link>https://Anish-Saxena.github.io/project/qualcomm_compression/</link>
+      <pubDate>Fri, 23 Aug 2019 11:29:15 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/qualcomm_compression/</guid>
+      <description>&lt;p&gt;Analyzed compression and memory tracing techniques for mobile architectures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2020 to June 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Biswabandan Panda, CSE Dept. IIT Kanpur&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Funded by Qualcomm Research to improve the front-end and memory subsystem of Systems-on-Chip.&lt;/li&gt;
+&lt;li&gt;Developed a framework to collect Memory &amp;amp; Data Traces (MDT) through emulation or natively for Android.&lt;/li&gt;
+&lt;li&gt;Modified QEMU, the emulator used by Android Studio, to collect MDT from Android 9.0 API with x86_64 ABI.&lt;/li&gt;
+&lt;li&gt;Extended Valgrind, a memory profiling framework, collected MDT natively from ARMv8-based devices.&lt;/li&gt;
+&lt;li&gt;Extended ChampSim, a trace-driven simulator, utilized MDT and analyzed patterns to improve value prediction, branch prediction, instruction prefetching, and cache compression at LLC.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

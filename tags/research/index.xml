@@ -25,22 +25,41 @@
     </item>
     
     <item>
-      <title>Reconfigurable Space Antenna</title>
-      <link>https://Anish-Saxena.github.io/project/space_antenna/</link>
-      <pubDate>Wed, 10 Jul 2019 06:31:20 +0530</pubDate>
+      <title>Efficient and Synergic Heterogeneous Systems</title>
+      <link>https://Anish-Saxena.github.io/project/qualcomm_compression/</link>
+      <pubDate>Fri, 23 Aug 2019 11:29:15 +0530</pubDate>
       
-      <guid>https://Anish-Saxena.github.io/project/space_antenna/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Designed SMA actuator and low-power motor based antenna with 1 rotational &amp;amp; 2 translational degrees of freedom, and planned its signal reception &amp;amp; transmission.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: January 2019 to February 2019&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Dr. Sahil Kalra (PhD), Space Technology Cell, IIT Kanpur (presently, Assistant Professor, IIT Jammu)&lt;/p&gt;
+      <guid>https://Anish-Saxena.github.io/project/qualcomm_compression/</guid>
+      <description>&lt;p&gt;Analyzed compression and memory tracing techniques for mobile architectures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: July 2020 to June 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Biswabandan Panda, CSE Dept. IIT Kanpur&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Developed mechanism for ISRO to allow movement of space antenna deployed in satellite with 2 translation degrees of freedom.&lt;/li&gt;
-&lt;li&gt;Rendered 3D model using Autodesk Fusion, integrated low powered motor to allow rotational degree of freedom.&lt;/li&gt;
-&lt;li&gt;Utilized state memory alloy (SMA) actuator developed by Dr. Kalra to allow movement of axis of rotation.&lt;/li&gt;
-&lt;li&gt;Planned to use ISRO’s NavIC chip to allow transmission and reception of signals to control the antenna.&lt;/li&gt;
-&lt;li&gt;Studied signal transmission protocols pertinent to NavIC in order to devise communication strategies.&lt;/li&gt;
+&lt;li&gt;Funded by Qualcomm Research to improve the front-end and memory subsystem of Systems-on-Chip.&lt;/li&gt;
+&lt;li&gt;Developed a framework to collect Memory &amp;amp; Data Traces (MDT) through emulation or natively for Android.&lt;/li&gt;
+&lt;li&gt;Modified QEMU, the emulator used by Android Studio, to collect MDT from Android 9.0 API with x86_64 ABI.&lt;/li&gt;
+&lt;li&gt;Extended Valgrind, a memory profiling framework, collected MDT natively from ARMv8-based devices.&lt;/li&gt;
+&lt;li&gt;Extended ChampSim, a trace-driven simulator, utilized MDT and analyzed patterns to improve value prediction, branch prediction, instruction prefetching, and cache compression at LLC.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Highly Scalable FFT on GPUs</title>
+      <link>https://Anish-Saxena.github.io/project/fft_library/</link>
+      <pubDate>Sun, 23 Jun 2019 08:10:20 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/project/fft_library/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extended Tarang, a parallel computational fluid dynamics simulator, to enable GPU-based FFTs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: February 2021 to August 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Mahendra Verma, Physics Dept. IIT Kanpur&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Extended Tarang, a parallel computational fluid dynamics simulator, to enable GPU-based FFTs.&lt;/li&gt;
+&lt;li&gt;Developed MPI and CuFFT-XT-based variable precision 1D and 3D scalable forward and inverse FFTs.&lt;/li&gt;
+&lt;li&gt;Achieved upto 1650× single-node speed-up over FFTW on DGX-A100 and linear strong and weak scaling.&lt;/li&gt;
+&lt;li&gt;Compared DGX-A100’s performance in PARAM Siddhi AI with EPCC Cirrus cluster with 6 V100 GPUs per node.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

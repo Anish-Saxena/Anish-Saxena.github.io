@@ -7,10 +7,27 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>All rights reserved | 2019</copyright>
-    <lastBuildDate>Sun, 16 Aug 2020 14:11:04 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://Anish-Saxena.github.io/authors/admin/</link>
+      <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Anish Saxena, a PhD student at Georgia Tech. My interests lie at the intersection of computer architecture, systems, and security.&lt;/p&gt;
+&lt;p&gt;I work with &lt;a href=&#34;https://www.cc.gatech.edu/~moin/&#34;&gt;Prof. Moin Qureshi&lt;/a&gt; in the &lt;a href=&#34;http://memlab.ece.gatech.edu/&#34;&gt;Memory Systems Lab&lt;/a&gt;. We are exploring software and architectural techniques to tackle hardware and microarchitectural vulnerabilities.&lt;/p&gt;
+&lt;p&gt;As an undergrad, I worked with &lt;a href=&#34;https://www.cse.iitb.ac.in/~biswa/&#34;&gt;Prof. Biswabandan Panda&lt;/a&gt; in CAR3S Group at IIT Kanpur. We investigated cache timing attack optimizations (&lt;a href=&#34;https://car3s.github.io/dabangg/&#34;&gt;DABANGG Attack&lt;/a&gt;) and analyzed compression and memory tracing techniques for mobile architectures. I also worked with &lt;a href=&#34;https://sites.google.com/view/mahendra-verma/&#34;&gt;Prof. Mahendra Verma&lt;/a&gt; to develop high-performance scalable FFT library for GPUs.&lt;/p&gt;
+&lt;p&gt;From 2019 to 2021, I was a funded SRC Student Member as part of the DABANGG project. My projects on compression for mobile architectures and high-performance FFT library were done in close collaboration with Qualcomm Research and NVIDIA, respectively. I interned at Intel Labs and NVIDIA in summers of 2020 and 2021, respectively.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Anish Saxena</title>
@@ -28,19 +45,6 @@
       
       <guid>https://Anish-Saxena.github.io/authors/biswabandan-panda/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Anish-Saxena.github.io/authors/admin/</link>
-      <pubDate>Sun, 01 Dec 2019 18:30:00 +0000</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m Anish Saxena, a senior undergraduate at IIT Kanpur. My interests lie broadly in computer systems.&lt;/p&gt;
-&lt;p&gt;I work with &lt;a href=&#34;https://www.cse.iitk.ac.in/users/biswap/&#34;&gt;Biswa&lt;/a&gt; in &lt;a href=&#34;https://car3s.github.io&#34;&gt;CAR3S Group&lt;/a&gt;. We recently made public our work on improved side-channel attacks using flush-based timing techniques in processor caches, the &lt;a href=&#34;https://car3s.github.io/dabangg/&#34;&gt;DABANGG Attack&lt;/a&gt;. This work was funded by NXP Semiconductors through &lt;a href=&#34;https://www.src.org/&#34;&gt;SRC&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;At CAR3S, we are formulating a framework to collect and analyze memory access traces from Android applications running natively on ARM architecture. This work is sponsored by Qualcomm Research. In summer of 2020, I pursued a Research Intern in Processor Architecture Research Lab at Intel Labs. We improved performance of a non-inclusive cache hierarchy by identifying and tracking parameters such as reuse distance.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re interested, I&amp;rsquo;ve found a &lt;a href=&#34;https://medium.com/@anish.saxena.official&#34;&gt;Medium&lt;/a&gt; to present my experiences in words. I&amp;rsquo;m compiling a fairly comprehensive set of resources to introduce folks to computer systems, the details of which are available here: &lt;a href=&#34;https://Anish-Saxena.github.io/talk/sys_reading_group/&#34;&gt;Systems Reading Group&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
