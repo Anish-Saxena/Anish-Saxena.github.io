@@ -18,14 +18,14 @@
       <pubDate>Fri, 23 Aug 2019 11:29:15 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/project/car3s/</guid>
-      <description>&lt;p&gt;Exploiting hardware optimizations for improving timing channel based cache attacks. Visit &lt;a href=&#34;https://car3s.github.io/dabangg/&#34;&gt;attack&amp;rsquo;s webpage&lt;/a&gt; for details.&lt;/p&gt;
+      <description>&lt;p&gt;Leveraged hardware optimizations to improve timing-based cache attacks. Visit &lt;a href=&#34;https://car3s.github.io/dabangg/&#34;&gt;attack&amp;rsquo;s webpage&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: April 2019 to June 2020&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mentor&lt;/strong&gt;: Prof. Biswabandan Panda, CSE Dept. IIT Kanpur&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Efficient and Synergic Heterogeneous Systems</title>
+      <title>Efficient Memory Tracing for Mobile Architectures</title>
       <link>https://Anish-Saxena.github.io/project/qualcomm_compression/</link>
       <pubDate>Fri, 23 Aug 2019 11:29:15 +0530</pubDate>
       
@@ -39,7 +39,7 @@
 &lt;li&gt;Developed a framework to collect Memory &amp;amp; Data Traces (MDT) through emulation or natively for Android.&lt;/li&gt;
 &lt;li&gt;Modified QEMU, the emulator used by Android Studio, to collect MDT from Android 9.0 API with x86_64 ABI.&lt;/li&gt;
 &lt;li&gt;Extended Valgrind, a memory profiling framework, collected MDT natively from ARMv8-based devices.&lt;/li&gt;
-&lt;li&gt;Extended ChampSim, a trace-driven simulator, utilized MDT and analyzed patterns to improve value prediction, branch prediction, instruction prefetching, and cache compression at LLC.&lt;/li&gt;
+&lt;li&gt;Extended ChampSim, a trace-driven simulator, utilized MDT and analyzed patterns to improve branch prediction, prefetching, and cache compression at LLC.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
