@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas Juffinger on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/authors/jonas-juffinger/</link>
+    <description>Recent content in Jonas Juffinger on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved 2022</copyright>
+    <lastBuildDate>Mon, 15 Aug 2022 14:11:04 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/authors/jonas-juffinger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PT-Guard: Enabling Integrity-Protected Page Tabes - A Transparent Defense Against Breakthrough Rowhammer Attacks</title>
+      <link>https://Anish-Saxena.github.io/publication/ptguard/</link>
+      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/ptguard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

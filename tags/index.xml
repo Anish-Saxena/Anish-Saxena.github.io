@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>All rights reserved 2022</copyright>
-    <lastBuildDate>Wed, 17 Mar 2021 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 14:11:04 +0530</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microarchitecture</title>
+      <link>https://Anish-Saxena.github.io/tags/microarchitecture/</link>
+      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/tags/microarchitecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://Anish-Saxena.github.io/tags/security/</link>
+      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/tags/security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
@@ -18,15 +36,6 @@
       <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
       
       <guid>https://Anish-Saxena.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://Anish-Saxena.github.io/tags/security/</link>
-      <pubDate>Sun, 16 Aug 2020 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/tags/security/</guid>
       <description></description>
     </item>
     

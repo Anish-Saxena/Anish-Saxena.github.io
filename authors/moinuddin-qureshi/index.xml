@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moinuddin Qureshi on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/authors/moinuddin-qureshi/</link>
+    <description>Recent content in Moinuddin Qureshi on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved 2022</copyright>
+    <lastBuildDate>Mon, 15 Aug 2022 14:11:04 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/authors/moinuddin-qureshi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AQUA: Scalable Rowhammer Mitigation by Quarantining Aggressor Rows at Runtime</title>
+      <link>https://Anish-Saxena.github.io/publication/aqua/</link>
+      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/aqua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PT-Guard: Enabling Integrity-Protected Page Tabes - A Transparent Defense Against Breakthrough Rowhammer Attacks</title>
+      <link>https://Anish-Saxena.github.io/publication/ptguard/</link>
+      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/ptguard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
