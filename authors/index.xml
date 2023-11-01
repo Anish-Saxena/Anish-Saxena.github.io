@@ -36,7 +36,7 @@
       <pubDate>Tue, 31 Oct 2023 10:30:00 +0000</pubDate>
       
       <guid>https://Anish-Saxena.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m Anish Saxena, a PhD student at Georgia Tech. I work with &lt;a href=&#34;https://www.cc.gatech.edu/~moin/&#34;&gt;Prof. Moin Qureshi&lt;/a&gt; in the &lt;a href=&#34;http://memlab.ece.gatech.edu/&#34;&gt;Memory Systems Lab&lt;/a&gt;, where I use computer architecture to tackle fun problems. Before joining Tech, I completed my undergrad from IIT Kanpur.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m a PhD student at Georgia Tech working with &lt;a href=&#34;https://www.cc.gatech.edu/~moin/&#34;&gt;Prof. Moin Qureshi&lt;/a&gt; in the &lt;a href=&#34;http://memlab.ece.gatech.edu/&#34;&gt;Memory Systems Lab&lt;/a&gt;. I leverage computer architecture concepts to tackle fun problems. Before joining Tech, I completed my undergrad from IIT Kanpur.&lt;/p&gt;
 &lt;p&gt;My recent works include practical and secure defenses against the severe Rowhammer security threat, and bandwidth-centric server designs using the emerging CXL memory interconnect.&lt;/p&gt;
 &lt;p&gt;I am currently exploring system-level optimizations to improve Large Language Model training and serving, a problem I first examined as part of my internship at AMD Research in Summer&amp;rsquo;23.&lt;/p&gt;
 </description>
