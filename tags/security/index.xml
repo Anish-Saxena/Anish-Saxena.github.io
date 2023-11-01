@@ -6,11 +6,38 @@
     <description>Recent content in Security on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2022</copyright>
-    <lastBuildDate>Mon, 15 Aug 2022 14:11:04 +0530</lastBuildDate>
+    <copyright>All rights reserved 2023</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 14:11:04 +0530</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>START: Scalable Tracking for Any Rowhammer Threshold</title>
+      <link>https://Anish-Saxena.github.io/publication/start/</link>
+      <pubDate>Sat, 02 Mar 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized Line-to-Row Mapping for Low-Overhead Rowhammer Mitigations</title>
+      <link>https://Anish-Saxena.github.io/publication/rubix/</link>
+      <pubDate>Tue, 15 Aug 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/rubix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PT-Guard: Integrity-Protected Page Tables to Defend Against Breakthrough Rowhammer Attacks </title>
+      <link>https://Anish-Saxena.github.io/publication/ptguard/</link>
+      <pubDate>Thu, 15 Jun 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/ptguard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AQUA: Scalable Rowhammer Mitigation by Quarantining Aggressor Rows at Runtime</title>
@@ -22,29 +49,11 @@
     </item>
     
     <item>
-      <title>PT-Guard: Enabling Integrity-Protected Page Tabes - A Transparent Defense Against Breakthrough Rowhammer Attacks</title>
-      <link>https://Anish-Saxena.github.io/publication/ptguard/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/publication/ptguard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DABANGG: A Case for Noise Resilient Flush-Based Cache Attacks</title>
       <link>https://Anish-Saxena.github.io/publication/dabangg/</link>
       <pubDate>Sun, 22 May 2022 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/publication/dabangg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Multi-Node Fast Fourier Transform on GPUs</title>
-      <link>https://Anish-Saxena.github.io/publication/fft/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/publication/fft/</guid>
       <description></description>
     </item>
     

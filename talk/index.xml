@@ -6,11 +6,65 @@
     <description>Recent content in Recent Talks on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2022</copyright>
-    <lastBuildDate>Wed, 17 Mar 2021 08:00:00 +0000</lastBuildDate>
+    <copyright>All rights reserved 2023</copyright>
+    <lastBuildDate>Tue, 27 Jun 2023 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PT-Guard integrity protection: Conference Talk at DSN 2023</title>
+      <link>https://Anish-Saxena.github.io/talk/ptguard_dsn/</link>
+      <pubDate>Tue, 27 Jun 2023 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/ptguard_dsn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rowhammer defenses: Invited talk at ETH Zurich</title>
+      <link>https://Anish-Saxena.github.io/talk/rowhammer_eth/</link>
+      <pubDate>Mon, 26 Jun 2023 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/rowhammer_eth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AQUA Rowhammer mitigation: Conference talk at MICRO 2022</title>
+      <link>https://Anish-Saxena.github.io/talk/aqua_micro/</link>
+      <pubDate>Mon, 03 Oct 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/aqua_micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rowhammer attacks and defenses: Invited talk at IIT Bombay</title>
+      <link>https://Anish-Saxena.github.io/talk/rowhammer_iitb/</link>
+      <pubDate>Tue, 23 Aug 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/rowhammer_iitb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s datacenter applications: Invited talk at Intel Labs</title>
+      <link>https://Anish-Saxena.github.io/talk/google_wsc/</link>
+      <pubDate>Mon, 22 Aug 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/google_wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DABANGG: Workshop talk at WOOT 2022</title>
+      <link>https://Anish-Saxena.github.io/talk/dabangg/</link>
+      <pubDate>Thu, 26 May 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/dabangg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CUDA Programming</title>

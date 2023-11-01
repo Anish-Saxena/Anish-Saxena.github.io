@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saurav Mathur on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/authors/saurav-mathur/</link>
+    <description>Recent content in Saurav Mathur on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved 2023</copyright>
+    <lastBuildDate>Tue, 15 Aug 2023 14:11:04 +0530</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/authors/saurav-mathur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Randomized Line-to-Row Mapping for Low-Overhead Rowhammer Mitigations</title>
+      <link>https://Anish-Saxena.github.io/publication/rubix/</link>
+      <pubDate>Tue, 15 Aug 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/rubix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

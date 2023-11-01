@@ -6,8 +6,8 @@
     <description>Recent content on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2022</copyright>
-    <lastBuildDate>Mon, 15 Aug 2022 14:11:04 +0530</lastBuildDate>
+    <copyright>All rights reserved 2023</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 14:11:04 +0530</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>Publications</title>
       <link>https://Anish-Saxena.github.io/publication/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      <pubDate>Sat, 02 Mar 2024 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Recent News</title>
+      <link>https://Anish-Saxena.github.io/news/</link>
+      <pubDate>Tue, 31 Oct 2023 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Talks</title>
       <link>https://Anish-Saxena.github.io/talk/</link>
-      <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Jun 2023 08:00:00 +0000</pubDate>
       
       <guid>https://Anish-Saxena.github.io/talk/</guid>
       <description></description>

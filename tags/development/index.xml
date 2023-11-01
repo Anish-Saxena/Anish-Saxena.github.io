@@ -6,11 +6,20 @@
     <description>Recent content in Development on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2022</copyright>
-    <lastBuildDate>Wed, 17 Mar 2021 08:00:00 +0000</lastBuildDate>
+    <copyright>All rights reserved 2023</copyright>
+    <lastBuildDate>Mon, 22 Aug 2022 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google&#39;s datacenter applications: Invited talk at Intel Labs</title>
+      <link>https://Anish-Saxena.github.io/talk/google_wsc/</link>
+      <pubDate>Mon, 22 Aug 2022 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/google_wsc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CUDA Programming</title>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Anish Saxena</title>
+    <link>https://Anish-Saxena.github.io/tags/news/</link>
+    <description>Recent content in News on Anish Saxena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved 2023</copyright>
+    <lastBuildDate>Tue, 31 Oct 2023 10:30:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://Anish-Saxena.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>START accepted at HPCA 2024!</title>
+      <link>https://Anish-Saxena.github.io/news/oct_2023/</link>
+      <pubDate>Tue, 31 Oct 2023 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/news/oct_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

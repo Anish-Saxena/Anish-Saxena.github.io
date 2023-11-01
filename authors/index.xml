@@ -6,8 +6,8 @@
     <description>Recent content in Authors on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2022</copyright>
-    <lastBuildDate>Mon, 15 Aug 2022 14:11:04 +0530</lastBuildDate>
+    <copyright>All rights reserved 2023</copyright>
+    <lastBuildDate>Sat, 02 Mar 2024 14:11:04 +0530</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,73 @@
     <item>
       <title>**Anish Saxena**</title>
       <link>https://Anish-Saxena.github.io/authors/anish-saxena/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      <pubDate>Sat, 02 Mar 2024 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/authors/anish-saxena/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Moinuddin Qureshi</title>
+      <link>https://Anish-Saxena.github.io/authors/moinuddin-qureshi/</link>
+      <pubDate>Sat, 02 Mar 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/moinuddin-qureshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Anish-Saxena.github.io/authors/admin/</link>
+      <pubDate>Tue, 31 Oct 2023 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Anish Saxena, a PhD student at Georgia Tech. I work with &lt;a href=&#34;https://www.cc.gatech.edu/~moin/&#34;&gt;Prof. Moin Qureshi&lt;/a&gt; in the &lt;a href=&#34;http://memlab.ece.gatech.edu/&#34;&gt;Memory Systems Lab&lt;/a&gt;, where I apply computer architecture to tackle fun problems. Before joining Tech, I completed my undergrad from IIT Kanpur.&lt;/p&gt;
+&lt;p&gt;My recent works include practical and secure defenses against the severe Rowhammer security threat, and bandwidth-centric server designs using the emerging CXL memory interconnect.&lt;/p&gt;
+&lt;p&gt;I am currently exploring system-level optimizations to improve Large Language Model training and serving, a problem I first examined as part of my internship at AMD Research in Summer&amp;rsquo;23.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Saurav Mathur</title>
+      <link>https://Anish-Saxena.github.io/authors/saurav-mathur/</link>
+      <pubDate>Tue, 15 Aug 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/saurav-mathur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>*_authors contributed equally_</title>
+      <link>https://Anish-Saxena.github.io/authors/_authors-contributed-equally_/</link>
+      <pubDate>Sat, 15 Jul 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/_authors-contributed-equally_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albert Cho*</title>
+      <link>https://Anish-Saxena.github.io/authors/albert-cho/</link>
+      <pubDate>Sat, 15 Jul 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/albert-cho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandros Daglis</title>
+      <link>https://Anish-Saxena.github.io/authors/alexandros-daglis/</link>
+      <pubDate>Sat, 15 Jul 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/alexandros-daglis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Andreas Kogler</title>
       <link>https://Anish-Saxena.github.io/authors/andreas-kogler/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      <pubDate>Thu, 15 Jun 2023 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/authors/andreas-kogler/</guid>
       <description></description>
@@ -33,7 +90,7 @@
     <item>
       <title>Daniel Gruss</title>
       <link>https://Anish-Saxena.github.io/authors/daniel-gruss/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      <pubDate>Thu, 15 Jun 2023 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/authors/daniel-gruss/</guid>
       <description></description>
@@ -42,7 +99,7 @@
     <item>
       <title>Gururaj Saileshwar</title>
       <link>https://Anish-Saxena.github.io/authors/gururaj-saileshwar/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      <pubDate>Thu, 15 Jun 2023 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/authors/gururaj-saileshwar/</guid>
       <description></description>
@@ -51,18 +108,72 @@
     <item>
       <title>Jonas Juffinger</title>
       <link>https://Anish-Saxena.github.io/authors/jonas-juffinger/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      <pubDate>Thu, 15 Jun 2023 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/authors/jonas-juffinger/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Moinuddin Qureshi</title>
-      <link>https://Anish-Saxena.github.io/authors/moinuddin-qureshi/</link>
-      <pubDate>Mon, 15 Aug 2022 14:11:04 +0530</pubDate>
+      <title>Bharakumar Sharma</title>
+      <link>https://Anish-Saxena.github.io/authors/bharakumar-sharma/</link>
+      <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
       
-      <guid>https://Anish-Saxena.github.io/authors/moinuddin-qureshi/</guid>
+      <guid>https://Anish-Saxena.github.io/authors/bharakumar-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaurav Garg</title>
+      <link>https://Anish-Saxena.github.io/authors/gaurav-garg/</link>
+      <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/gaurav-garg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahendra K. Verma</title>
+      <link>https://Anish-Saxena.github.io/authors/mahendra-k.-verma/</link>
+      <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/mahendra-k.-verma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manthan Verma</title>
+      <link>https://Anish-Saxena.github.io/authors/manthan-verma/</link>
+      <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/manthan-verma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nishant Arya</title>
+      <link>https://Anish-Saxena.github.io/authors/nishant-arya/</link>
+      <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/nishant-arya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shashi Kumar</title>
+      <link>https://Anish-Saxena.github.io/authors/shashi-kumar/</link>
+      <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/shashi-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soumyadeep Chatterjee</title>
+      <link>https://Anish-Saxena.github.io/authors/soumyadeep-chatterjee/</link>
+      <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/authors/soumyadeep-chatterjee/</guid>
       <description></description>
     </item>
     
@@ -82,85 +193,6 @@
       
       <guid>https://Anish-Saxena.github.io/authors/biswabandan-panda/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Bharakumar Sharma</title>
-      <link>https://Anish-Saxena.github.io/authors/bharakumar-sharma/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/bharakumar-sharma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaurav Garg</title>
-      <link>https://Anish-Saxena.github.io/authors/gaurav-garg/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/gaurav-garg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mahendra K. Verma</title>
-      <link>https://Anish-Saxena.github.io/authors/mahendra-k.-verma/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/mahendra-k.-verma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manthan Verma</title>
-      <link>https://Anish-Saxena.github.io/authors/manthan-verma/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/manthan-verma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nishant Arya</title>
-      <link>https://Anish-Saxena.github.io/authors/nishant-arya/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/nishant-arya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shashi Kumar</title>
-      <link>https://Anish-Saxena.github.io/authors/shashi-kumar/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/shashi-kumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Soumyadeep Chatterjee</title>
-      <link>https://Anish-Saxena.github.io/authors/soumyadeep-chatterjee/</link>
-      <pubDate>Tue, 15 Feb 2022 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/soumyadeep-chatterjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Anish-Saxena.github.io/authors/admin/</link>
-      <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m Anish Saxena, a PhD student at Georgia Tech. My interests lie at the intersection of computer architecture, systems, and security. I work with &lt;a href=&#34;https://www.cc.gatech.edu/~moin/&#34;&gt;Prof. Moin Qureshi&lt;/a&gt; in the &lt;a href=&#34;http://memlab.ece.gatech.edu/&#34;&gt;Memory Systems Lab&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My goal is to develop high-performance and secure systems and architectures. In the summer of 2022, I analyzed Google&amp;rsquo;s warehouse-scale applications and their performance on CXL-based memory systems while at Micron Research. I am currently designing a CXL-centric memory system for datacenter workloads.&lt;/p&gt;
-&lt;p&gt;Other recent projects include designing a scalable Rowhammer mitigation, &lt;a href=&#34;https://ieeexplore.ieee.org/document/9923789&#34;&gt;AQUA&lt;/a&gt;, and making cache side-channels resilient to noise &amp;ndash; the &lt;a href=&#34;https://ieeexplore.ieee.org/document/9833897&#34;&gt;DABANGG Attack&lt;/a&gt;. Previously, I designed reuse distance-based cache policies and accelerated simulation infrastructure at Intel Labs, and analyzed tracing techniques for ARM architecture in collaboration with Qualcomm Research.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
     </item>
     
   </channel>
