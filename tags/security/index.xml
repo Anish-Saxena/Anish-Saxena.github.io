@@ -6,11 +6,38 @@
     <description>Recent content in Security on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2023</copyright>
-    <lastBuildDate>Sat, 02 Mar 2024 14:11:04 +0530</lastBuildDate>
+    <copyright>All rights reserved 2024</copyright>
+    <lastBuildDate>Tue, 05 Nov 2024 14:11:04 +0530</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ImPress: Securing DRAM Against Data-Disturbance Errors via Implicit Row-Press Mitigation</title>
+      <link>https://Anish-Saxena.github.io/publication/impress/</link>
+      <pubDate>Tue, 05 Nov 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/impress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Rowhammer Exploits via Low-Cost Domain-Aware Memory Allocation </title>
+      <link>https://Anish-Saxena.github.io/publication/citadel/</link>
+      <pubDate>Thu, 05 Sep 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/citadel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rubix: Reducing the Overhead of Secure Rowhammer Mitigations via Randomized Line-to-Row Mapping </title>
+      <link>https://Anish-Saxena.github.io/publication/rubix/</link>
+      <pubDate>Wed, 15 May 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/rubix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>START: Scalable Tracking for Any Rowhammer Threshold</title>
@@ -18,15 +45,6 @@
       <pubDate>Sat, 02 Mar 2024 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/publication/start/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Randomized Line-to-Row Mapping for Low-Overhead Rowhammer Mitigations</title>
-      <link>https://Anish-Saxena.github.io/publication/rubix/</link>
-      <pubDate>Tue, 15 Aug 2023 14:11:04 +0530</pubDate>
-      
-      <guid>https://Anish-Saxena.github.io/publication/rubix/</guid>
       <description></description>
     </item>
     

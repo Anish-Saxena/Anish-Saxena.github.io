@@ -6,14 +6,50 @@
     <description>Recent content in News on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2023</copyright>
-    <lastBuildDate>Tue, 31 Oct 2023 10:30:00 +0000</lastBuildDate>
+    <copyright>All rights reserved 2024</copyright>
+    <lastBuildDate>Sun, 01 Dec 2024 10:30:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>START accepted at HPCA 2024!</title>
+      <title>[December 2024] Delighted to be awarded the NVIDIA Graduate Fellowship!</title>
+      <link>https://Anish-Saxena.github.io/news/dec_2024/</link>
+      <pubDate>Sun, 01 Dec 2024 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/news/dec_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[August 2024] ImPress accepted at MICRO 2024!</title>
+      <link>https://Anish-Saxena.github.io/news/aug_2024/</link>
+      <pubDate>Sat, 31 Aug 2024 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/news/aug_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[July 2024] CoaXiaL accepted at SC 2024!</title>
+      <link>https://Anish-Saxena.github.io/news/jun_2024/</link>
+      <pubDate>Wed, 31 Jul 2024 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/news/jun_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[December 2023] Rubix accepted at ASPLOS 2024!</title>
+      <link>https://Anish-Saxena.github.io/news/dec_2023/</link>
+      <pubDate>Sun, 31 Dec 2023 10:30:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/news/dec_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[October 2023] START accepted at HPCA 2024!</title>
       <link>https://Anish-Saxena.github.io/news/oct_2023/</link>
       <pubDate>Tue, 31 Oct 2023 10:30:00 +0000</pubDate>
       

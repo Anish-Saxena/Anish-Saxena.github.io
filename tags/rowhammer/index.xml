@@ -6,11 +6,65 @@
     <description>Recent content in Rowhammer on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2023</copyright>
-    <lastBuildDate>Sat, 02 Mar 2024 14:11:04 +0530</lastBuildDate>
+    <copyright>All rights reserved 2024</copyright>
+    <lastBuildDate>Wed, 06 Nov 2024 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/rowhammer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implicit RowPress Protection: Conference Talk at MICRO 2024</title>
+      <link>https://Anish-Saxena.github.io/talk/impress_micro_2024/</link>
+      <pubDate>Wed, 06 Nov 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/impress_micro_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImPress: Securing DRAM Against Data-Disturbance Errors via Implicit Row-Press Mitigation</title>
+      <link>https://Anish-Saxena.github.io/publication/impress/</link>
+      <pubDate>Tue, 05 Nov 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/impress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Rowhammer Exploits via Low-Cost Domain-Aware Memory Allocation </title>
+      <link>https://Anish-Saxena.github.io/publication/citadel/</link>
+      <pubDate>Thu, 05 Sep 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/citadel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rubix: Reducing the Overhead of Secure Rowhammer Mitigations via Randomized Line-to-Row Mapping </title>
+      <link>https://Anish-Saxena.github.io/publication/rubix/</link>
+      <pubDate>Wed, 15 May 2024 14:11:04 +0530</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/publication/rubix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rubix Memory Mappings: Conference Talk at ASPLOS 2024</title>
+      <link>https://Anish-Saxena.github.io/talk/rubix_asplos_2024/</link>
+      <pubDate>Sun, 05 May 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/rubix_asplos_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Rowhammer Tracking: Conference Talk at HPCA 2024</title>
+      <link>https://Anish-Saxena.github.io/talk/start_hpca_2024/</link>
+      <pubDate>Sat, 02 Mar 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/start_hpca_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>START: Scalable Tracking for Any Rowhammer Threshold</title>
@@ -22,11 +76,11 @@
     </item>
     
     <item>
-      <title>Randomized Line-to-Row Mapping for Low-Overhead Rowhammer Mitigations</title>
-      <link>https://Anish-Saxena.github.io/publication/rubix/</link>
-      <pubDate>Tue, 15 Aug 2023 14:11:04 +0530</pubDate>
+      <title>Ultra-Low Cost Rowhammer Protection: Invited Talk at IIT Bombay</title>
+      <link>https://Anish-Saxena.github.io/talk/iitb_2024/</link>
+      <pubDate>Mon, 12 Feb 2024 12:00:00 +0000</pubDate>
       
-      <guid>https://Anish-Saxena.github.io/publication/rubix/</guid>
+      <guid>https://Anish-Saxena.github.io/talk/iitb_2024/</guid>
       <description></description>
     </item>
     

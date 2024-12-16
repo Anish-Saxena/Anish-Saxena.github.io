@@ -6,16 +6,25 @@
     <description>Recent content in CXL on Anish Saxena</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>All rights reserved 2023</copyright>
-    <lastBuildDate>Sat, 15 Jul 2023 14:11:04 +0530</lastBuildDate>
+    <copyright>All rights reserved 2024</copyright>
+    <lastBuildDate>Fri, 22 Nov 2024 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/cxl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Case for CXL-Centric Server Processors</title>
+      <title>CXL-centric Server Systems: Conference Talk at SC 2024</title>
+      <link>https://Anish-Saxena.github.io/talk/coaxial_sc_2024/</link>
+      <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/coaxial_sc_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoaXiaL: A CXL-Centric Memory System for Scalable Servers </title>
       <link>https://Anish-Saxena.github.io/publication/coaxial/</link>
-      <pubDate>Sat, 15 Jul 2023 14:11:04 +0530</pubDate>
+      <pubDate>Fri, 15 Nov 2024 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/publication/coaxial/</guid>
       <description></description>
