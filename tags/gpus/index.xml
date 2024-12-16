@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>All rights reserved 2024</copyright>
-    <lastBuildDate>Mon, 15 May 2023 14:11:04 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 12:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://Anish-Saxena.github.io/tags/gpus/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High Throughput Mixture-of-Expert Serving: Intern Talk at NVIDIA</title>
+      <link>https://Anish-Saxena.github.io/talk/nvidia_2024/</link>
+      <pubDate>Sat, 27 Jul 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/nvidia_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Systems for Scalable LLM Training: Intern Talk at AMD</title>
+      <link>https://Anish-Saxena.github.io/talk/end_of_intern_amd/</link>
+      <pubDate>Sat, 05 Aug 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/end_of_intern_amd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalable Multi-Node Fast Fourier Transform on GPUs</title>
@@ -18,6 +36,15 @@
       <pubDate>Mon, 15 May 2023 14:11:04 +0530</pubDate>
       
       <guid>https://Anish-Saxena.github.io/publication/fft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUDA Programming</title>
+      <link>https://Anish-Saxena.github.io/talk/cuda_programming/</link>
+      <pubDate>Wed, 17 Mar 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://Anish-Saxena.github.io/talk/cuda_programming/</guid>
       <description></description>
     </item>
     
